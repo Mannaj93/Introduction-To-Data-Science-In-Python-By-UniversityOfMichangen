@@ -1,2 +1,1 @@
-# Introduction-To-Data-Science-In-Python-By-UniversityOfMichangen
-Introduction to data privacy by University of Michangen, done the course on CourseEra
+Introduction to Data Privacy by Univercity of Michigan. I have done this course from Courserea. This repository contain all the assignmnet that I have done on that course.
